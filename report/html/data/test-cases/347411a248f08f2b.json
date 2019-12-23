@@ -1,0 +1,61 @@
+{
+  "uid" : "347411a248f08f2b",
+  "name" : "TestMessage.test_led_light",
+  "fullName" : "test_message.TestMessage.test_led_light",
+  "historyId" : "5dac7de9f43906317bcd058def9557a",
+  "time" : {
+    "start" : 1577090342776,
+    "stop" : 1577090365893,
+    "duration" : 23117
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-MM0FFBE"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_message"
+  }, {
+    "name" : "testClass",
+    "value" : "test_message"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestMessage.test_led_light"
+  }, {
+    "name" : "package",
+    "value" : "test_message"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "347411a248f08f2b.json",
+  "parameterValues" : [ ]
+}

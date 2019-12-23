@@ -1,0 +1,21 @@
+[ {
+  "uid" : "dea3a560bee1fcfe",
+  "name" : "TestMessage.test_no_disturbing",
+  "time" : {
+    "start" : 1577090313741,
+    "stop" : 1577090341825,
+    "duration" : 28084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "347411a248f08f2b",
+  "name" : "TestMessage.test_led_light",
+  "time" : {
+    "start" : 1577090342776,
+    "stop" : 1577090365893,
+    "duration" : 23117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

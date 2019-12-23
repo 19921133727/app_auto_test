@@ -1,0 +1,61 @@
+{
+  "uid" : "dea3a560bee1fcfe",
+  "name" : "TestMessage.test_no_disturbing",
+  "fullName" : "test_message.TestMessage.test_no_disturbing",
+  "historyId" : "8f26b9e1bfda3ccff3b1d7f73632596f",
+  "time" : {
+    "start" : 1577090313741,
+    "stop" : 1577090341825,
+    "duration" : 28084
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-MM0FFBE"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_message"
+  }, {
+    "name" : "testClass",
+    "value" : "test_message"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestMessage.test_no_disturbing"
+  }, {
+    "name" : "package",
+    "value" : "test_message"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dea3a560bee1fcfe.json",
+  "parameterValues" : [ ]
+}

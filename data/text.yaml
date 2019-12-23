@@ -1,0 +1,7 @@
+#一个字典的key对应一个用例
+test001:
+  - 胡杰
+  - 马进霞
+test002:
+  - hujie
+  - majinxia
