@@ -20,7 +20,7 @@ submitBtn = driver.find_element_by_xpath("/html/body/table/tbody/tr/td[2]/span/t
 yyw = driver.find_element_by_xpath("/html/body/table/tbody/tr/td[1]/span/table/tbody/tr[16]/td[7]/input")
 yyw2 = driver.find_element_by_xpath("/html/body/table/tbody/tr/td[1]/span/table/tbody/tr[14]/td[7]/input")
 #创建扫描记录
-listNumber = 2019121888001
+listNumber = 2019122688001
 # wds = [317024,610008,201713]
 while True:
     wdid.clear()
@@ -37,7 +37,7 @@ while True:
     appendData.click()
 
     listNumber += 1
-    if listNumber == 2019121888050555:
+    if listNumber == 2019122688050:
         submitBtn.click()
         time.sleep(3)
         driver.close()
